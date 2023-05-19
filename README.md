@@ -2,7 +2,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Software Engineer, Technical Lead, and Full-Stack Developer with over 10 years of experience developing complex, scalable, high-demand web applications using Microservices and Serverless architectures deployed on cloud services. I have also participated in and led projects creating infrastructure from scratch (using code as infrastructure), integrating applications, and migrating technologies. I have worked in companies in the retail sector, systems consulting, logistics, transportation, and entertainment. I consider myself a responsible, committed, creative individual, with adaptability and the ability to work as a team.
+
+🔭 I’m currently working as a Freelance
+📚 I am currently learning about data science and machine learning
+👯 I’m looking to collaborate on chatbots applications with AI
+💬 Ask me about
+⚡ Fun fact: I like soccer very much
 
 
 ## 🌐 Socials:
