@@ -5,12 +5,11 @@
 
 Software Engineer, Technical Lead, and Full-Stack Developer with over 10 years of experience developing complex, scalable, high-demand web applications using Microservices and Serverless architectures deployed on cloud services. I have also participated in and led projects creating infrastructure from scratch (using code as infrastructure), integrating applications, and migrating technologies. I have worked in companies in the retail sector, systems consulting, logistics, transportation, and entertainment. I consider myself a responsible, committed, creative individual, with adaptability and the ability to work as a team.
 
-🔭 I’m currently working as a Freelance
-📚 I am currently learning about data science and machine learning
-👯 I’m looking to collaborate on chatbots applications with AI
-💬 Ask me about
-⚡ Fun fact: I like soccer very much
-
+🔭 I’m currently working as a Freelance <br>
+📚 I am currently learning about data science and machine learning <br>
+👯 I’m looking to collaborate on chatbots applications with AI <br>
+⚡ Fun fact: I like soccer very much <br>
+📫 How to reach me: vorellana99@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-orellana/) 
@@ -30,9 +29,6 @@ Software Engineer, Technical Lead, and Full-Stack Developer with over 10 years o
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vorellana&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vorellana&icon=0&color=0)](https://visitcount.itsvg.in)
