@@ -12,7 +12,7 @@ Software Engineer, Technical Lead, and Full-Stack Developer with over 10 years o
 📫 How to reach me: vorellana99@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-orellana/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-orellana/)
 
 # 💻 Tech Stack:
 
